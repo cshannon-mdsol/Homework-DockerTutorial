@@ -12,3 +12,8 @@
 
 4. Part 4: Deploying a Swarm
     * Yet another way to create the bulletin board.
+
+5. Part 5: Sharing images on Docker Hub
+    * Completed outside of GitHub using only Docker and Terminal. https://hub.docker.com/r/cmshannon/bulletinboard
+
+6. Part 6: There is no longer a Part 6 on the website.
