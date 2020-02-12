@@ -5,3 +5,4 @@
 
 2. Containerizing an application
     * Not sure if the node-bulletin-board was supposed to end up in this repository but I followed the instructions using terminal. Seeing an app run, and testing it, on localhost was really cool.
+    * Ended up having to delete the nested repository because of an error Commit failed - exit code 1 received
