@@ -9,3 +9,6 @@
 
 3. Part 3: Deploying to Kubernetes
     * Completed and created the bulletin board a different way.
+
+4. Part 4: Deploying a Swarm
+    * Yet another way to create the bulletin board.
